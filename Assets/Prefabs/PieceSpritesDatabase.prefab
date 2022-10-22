@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1615070429987108
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4729409113092446}
+  - component: {fileID: 114495281069537696}
+  m_Layer: 0
+  m_Name: PieceSpritesDatabase
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4729409113092446
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1615070429987108}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114495281069537696
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1615070429987108}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d43421590dbf4c6584944688f6c6647c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  spritesPerPieceTypeId:
+  - {fileID: 21300000, guid: 3db1d3122a9c74e2fa7b69012cea13c0, type: 3}
+  - {fileID: 21300000, guid: 46f21f0f931e74ab182328a6d91b3f9b, type: 3}
+  - {fileID: 21300000, guid: fd8201633fc1b40008a9e8e1d331c69a, type: 3}
+  - {fileID: 21300000, guid: 1ac07a60e7c404a4f97024e8a418bc33, type: 3}
+  - {fileID: 21300000, guid: c53c249c228ab4328a95ea4d85d27c90, type: 3}
+  specialSpritesPerPieceTypeId:
+  - {fileID: 21300000, guid: 3e80db370f0b94c4c83b9acc3fe13f88, type: 3}
+  - {fileID: 21300000, guid: c97fb858861534436b7807edb92db828, type: 3}
+  - {fileID: 21300000, guid: 47784c7574f9e2e458f9f1268b4175e1, type: 3}
+  - {fileID: 21300000, guid: cd8da2aa3e7972142b9c890bb0af54b2, type: 3}

@@ -1,5 +1,5 @@
-# ToonBlastClone
-A clone version of Toon Blast in Unity
+
+A match3 game in unity
 
 
 

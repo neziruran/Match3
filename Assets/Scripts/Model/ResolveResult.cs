@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace ToonBlast.Model {
+namespace Match3.Model {
 
 	public class ResolveResult {
 		public readonly Dictionary<IGridPiece, ChangeInfo> changes = new Dictionary<IGridPiece, ChangeInfo>();

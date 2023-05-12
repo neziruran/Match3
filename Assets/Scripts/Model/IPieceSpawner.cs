@@ -1,4 +1,4 @@
-namespace ToonBlast.Model {
+namespace Match3.Model {
 
 	public interface IPieceSpawner {
 		

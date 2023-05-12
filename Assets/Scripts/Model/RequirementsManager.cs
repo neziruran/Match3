@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
-using ToonBlast;
-using ToonBlast.Model;
+using Match3;
+using Match3.Model;
 using UnityEngine;
 
 namespace Model

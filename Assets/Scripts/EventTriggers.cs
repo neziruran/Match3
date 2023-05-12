@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace ToonBlast
+namespace Match3
 {
     public class EventTriggers : MonoBehaviour
     {

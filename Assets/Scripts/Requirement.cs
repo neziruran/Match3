@@ -1,5 +1,5 @@
 ﻿using System.Collections;
-using ToonBlast.Model;
+using Match3.Model;
 using UnityEngine;
 using UnityEngine.Serialization;
 using UnityEngine.UI;

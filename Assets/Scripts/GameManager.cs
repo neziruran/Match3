@@ -1,14 +1,14 @@
 ﻿using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using Match3.Model;
 using Model;
-using ToonBlast.Model;
 using UnityEngine;
 using UnityEngine.UI;
 using Random = UnityEngine.Random;
 
 
-namespace ToonBlast
+namespace Match3
 {
     public class GameManager : MonoBehaviour
     {

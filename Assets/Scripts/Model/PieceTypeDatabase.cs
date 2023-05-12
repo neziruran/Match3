@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace ToonBlast.Model {
+namespace Match3.Model {
 
 	public class PieceTypeDatabase : MonoBehaviour {
 		[SerializeField] private List<Sprite> spritesPerPieceTypeId;

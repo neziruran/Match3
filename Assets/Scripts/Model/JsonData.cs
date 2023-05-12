@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace ToonBlast.Model
+namespace Match3.Model
 {
     [System.Serializable]
     public struct Scores {

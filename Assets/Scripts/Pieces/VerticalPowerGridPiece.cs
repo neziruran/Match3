@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
-using ToonBlast.Model;
+using Match3.Model;
 
 
-namespace ToonBlast
+namespace Match3
 {
     public class VerticalPowerGridPiece : IGridPiece
     {

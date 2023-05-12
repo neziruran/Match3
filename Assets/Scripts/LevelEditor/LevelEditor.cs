@@ -2,7 +2,7 @@
 using UnityEngine;
 using UnityEngine.Serialization;
 
-namespace ToonBlast
+namespace Match3
 {
     [CreateAssetMenu(fileName = "LevelEditor", menuName = "ScriptableObjects/LevelEditorObject", order = 1)]
     public class LevelEditor : ScriptableObject

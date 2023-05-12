@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace ToonBlast
+namespace Match3
 {
     public class UIManager : MonoBehaviour
     {

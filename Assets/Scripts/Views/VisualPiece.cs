@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace ToonBlast.ViewComponents {
+namespace Match3.ViewComponents {
     
     [RequireComponent(typeof(SpriteRenderer))]
     public class VisualPiece : MonoBehaviour {

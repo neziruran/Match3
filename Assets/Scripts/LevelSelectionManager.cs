@@ -1,11 +1,11 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
+using Match3.Model;
 using Model;
 using UnityEngine;
 using UnityEngine.UI;
-using ToonBlast.Model;
 
-namespace ToonBlast
+namespace Match3
 {
     public class LevelSelectionManager : MonoBehaviour
     {

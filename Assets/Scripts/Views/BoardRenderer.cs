@@ -1,7 +1,7 @@
-﻿using ToonBlast.Model;
+﻿using Match3.Model;
 using UnityEngine;
 
-namespace ToonBlast.ViewComponents {
+namespace Match3.ViewComponents {
 
 	public class BoardRenderer : MonoBehaviour {
 		

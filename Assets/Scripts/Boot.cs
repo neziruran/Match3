@@ -1,9 +1,9 @@
 ﻿using System.Collections.Generic;
-using ToonBlast.Model;
-using ToonBlast.ViewComponents;
+using Match3.Model;
+using Match3.ViewComponents;
 using UnityEngine;
 
-namespace ToonBlast {
+namespace Match3 {
 	
 	public class Boot : MonoBehaviour {
 		

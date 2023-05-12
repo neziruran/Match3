@@ -2,14 +2,16 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!21 &-4482052401124930624
 Material:
-  serializedVersion: 6
+  serializedVersion: 8
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: LuckiestGuyUiOutline Material
   m_Shader: {fileID: 4800000, guid: 68e6db2ebdc24f95958faec2be5558d6, type: 3}
-  m_ShaderKeywords: UNDERLAY_ON
+  m_ValidKeywords:
+  - UNDERLAY_ON
+  m_InvalidKeywords: []
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -39,6 +41,7 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    m_Ints: []
     m_Floats:
     - _Ambient: 0.5
     - _Bevel: 0.5
@@ -120,8 +123,7 @@ MonoBehaviour:
   materialHashCode: -1740215826
   m_Version: 1.1.0
   m_SourceFontFileGUID: 92ec345d724b19b49ab4812afcecc34c
-  m_SourceFontFile_EditorRef: {fileID: 12800000, guid: 92ec345d724b19b49ab4812afcecc34c,
-    type: 3}
+  m_SourceFontFile_EditorRef: {fileID: 12800000, guid: 92ec345d724b19b49ab4812afcecc34c, type: 3}
   m_SourceFontFile: {fileID: 0}
   m_AtlasPopulationMode: 0
   m_FaceInfo:

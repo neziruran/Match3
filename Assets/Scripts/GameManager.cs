@@ -133,12 +133,15 @@ namespace Match3
                    // GameWin();
                    gameState = GameState.Win;
                    EventTriggers.GameWin();
+                   WriteToJson();
                 }
                 else
                 {
                    // GameFail();
                    gameState = GameState.Lose;
                    EventTriggers.GameLoss();
+                   WriteToJson();
+
                 }
             }
             else
@@ -148,6 +151,7 @@ namespace Match3
                     // GameWin();
                     gameState = GameState.Win;
                     EventTriggers.GameWin();
+                    WriteToJson();
                 }
             }
         }
